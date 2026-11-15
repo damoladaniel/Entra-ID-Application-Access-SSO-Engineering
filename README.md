@@ -14,3 +14,16 @@ It applies Zero Trust principles: no user or device is trusted by default, and e
 - Conditional Access: built policies targeting the application that require MFA for every sign-in and block users who aren’t in the authorised groups.
 - Least privilege: gave each group only the access its function needs, so joiners, movers, and leavers are handled by changing group membership.
 - Testing and validation: signed in as users from different groups to confirm that authorised users got in after MFA and unauthorised users were denied, then checked the sign-in logs to verify the policies were applied.
+
+### Environment
+---------------
+- Entra ID
+- App type: Enterprise Application (OIDC)
+- Access Model: Group-based authorization
+- Security Controls: Conditional Access & MFA
+- Monitoring and Logs: Entra Sign-in Logs
+
+### Architecture
+-----------------
+<img width="2720" height="1720" alt="entra_id_enterprise_app_access_architecture" src="https://github.com/user-attachments/assets/a7eb208c-7c49-4d6d-8099-4d791cd82a31" />
+-------------------------
