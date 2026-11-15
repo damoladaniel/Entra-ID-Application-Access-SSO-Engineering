@@ -126,5 +126,23 @@ Configuration:
 
 ----------------
 
-<img width="1439" height="861" alt="Screenshot 2026-11-15 152533" src="https://github.com/user-attachments/assets/cb29cf86-2877-40d3-b58b-70c4fdb9913e" />
+<img width="2541" height="858" alt="Screenshot 2026-11-15 152611" src="https://github.com/user-attachments/assets/609be5c0-2d98-4298-96ed-e443b6b9559e" />
+
+-----------------------
+In Target Resources - select the Enterprise HR App
+<br></br>
+<img width="2542" height="752" alt="Screenshot 2026-11-15 152713" src="https://github.com/user-attachments/assets/738841f3-120e-40c3-85ec-fbf97e5fbcfb" />
+
+-----------------------
+
+Grant access and enable `Require MFA`
+<br></br>
+
+<img width="2526" height="852" alt="Screenshot 2026-11-15 152748" src="https://github.com/user-attachments/assets/100e71d1-204d-4db5-9a86-ca29dc0c4917" />
+
+<br></br>
+
+<img width="1693" height="736" alt="Screenshot 2026-11-15 152848" src="https://github.com/user-attachments/assets/3545cf8c-19f0-4851-b592-1c39cfd2b02d" />
+
+
 
