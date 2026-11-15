@@ -44,8 +44,12 @@ Create:
 <br></br>
 
 #### Step 2 - Create Test Identities
-I created CLoud-Only users representing business roles:
+I created Cloud-Only users representing business roles:
 - Daniel Techers
 - Katy Dean
 - Felipe Guest
-- * I set Dynamic User for the groups I created in step 1 so that it the users I created can be automatically assigned to their respective groups
+- I set Dynamic User for the groups I created in step 1 so that it the users I created can be automatically assigned to their respective groups
+
+<br></br>
+<img width="1608" height="756" alt="image" src="https://github.com/user-attachments/assets/f580f720-d7c3-4cc2-bde9-f3a7c75d47b6" />
+<br></br>
