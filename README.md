@@ -38,3 +38,6 @@ Create:
 - EnterpriseApp-HR
 - EnterpriseApp-IT-Admins
 - EnterpriseApp-Guests
+<br></br>
+<img width="1943" height="591" alt="Screenshot 2026-11-15 145058" src="https://github.com/user-attachments/assets/68b4d5d5-20c4-412e-902b-d93bf1319218" />
+
