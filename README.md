@@ -41,4 +41,11 @@ Create:
 ----------------------------------
 <br></br>
 <img width="1943" height="591" alt="Screenshot 2026-11-15 145058" src="https://github.com/user-attachments/assets/68b4d5d5-20c4-412e-902b-d93bf1319218" />
+<br></br>
 
+#### Step 2 - Create Test Identities
+I created CLoud-Only users representing business roles:
+- Daniel Techers
+- Katy Dean
+- Felipe Guest
+- * I set Dynamic User for the groups I created in step 1 so that it the users I created can be automatically assigned to their respective groups
