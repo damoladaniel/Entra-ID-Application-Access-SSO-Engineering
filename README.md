@@ -77,7 +77,39 @@ Path:
 
 <img width="1541" height="844" alt="Screenshot 2026-11-15 152153" src="https://github.com/user-attachments/assets/83008e1d-a465-4ea5-9416-c49f75c5ed73" />
 <br></br>
-<img width="1204" height="785" alt="Screenshot 2026-11-15 152259" src="https://github.com/user-attachments/assets/88062621-4fa2-4a9a-8742-aab5fb554895" />
+<img width="1697" height="821" alt="Screenshot 2026-11-15 152230" src="https://github.com/user-attachments/assets/7f1c1da2-3c05-4bd7-ba4e-ed149db601c2" />
 
+## Phase 3- App Authorization & Security
+### Step 5 - Enforcing Assignments
 
+Path:
+`Enterprise application → Properties`
+
+<img width="1204" height="785" alt="Screenshot 2026-11-15 152259" src="https://github.com/user-attachments/assets/71709409-3dbd-4b17-b634-129ed8f5648c" />
+<br></br>
+<img width="1697" height="821" alt="Screenshot 2026-11-15 152230" src="https://github.com/user-attachments/assets/7f1c1da2-3c05-4bd7-ba4e-ed149db601c2" />
+
+### Step 6 Adding Groups to the Application
+
+<img width="2543" height="614" alt="Screenshot 2026-11-15 152446" src="https://github.com/user-attachments/assets/e7e48e23-f052-439b-ac8e-de2350dfcf5f" />
+<br></br>
+<img width="2519" height="855" alt="Screenshot 2026-11-15 152416" src="https://github.com/user-attachments/assets/cf739b6d-e9c7-4d1c-8530-2bb405a94ac4" />
+
+## Phase 4 - Applying Conditional Access 
+### Step 7 - Applying MFA policy to the application
+
+`Microsoft Entra ID → Protection → Conditional Access → New policy`
+
+Policy:
+`Conditional Access for HR Application`
+
+Configuration:
+
+- Users: EnterpriseApp-HR
+- Cloud apps: Enterprise HR Applcation
+- Grant: Require multi-factor authentication
+
+  
+<img width="2323" height="875" alt="Screenshot 2026-11-15 152516" src="https://github.com/user-attachments/assets/65161fd1-9018-47ec-829b-7894cc604b03" />
+<img width="1439" height="861" alt="Screenshot 2026-11-15 152533" src="https://github.com/user-attachments/assets/cb29cf86-2877-40d3-b58b-70c4fdb9913e" />
 
