@@ -91,12 +91,20 @@ Path:
 
 ### Step 6 Adding Groups to the Application
 
+Assigned:
+
+Group: `Enterprise -HR-Users`
+
+<br></br>
+
 <img width="2543" height="614" alt="Screenshot 2026-11-15 152446" src="https://github.com/user-attachments/assets/e7e48e23-f052-439b-ac8e-de2350dfcf5f" />
 <br></br>
 <img width="2519" height="855" alt="Screenshot 2026-11-15 152416" src="https://github.com/user-attachments/assets/cf739b6d-e9c7-4d1c-8530-2bb405a94ac4" />
 
 ## Phase 4 - Applying Conditional Access 
 ### Step 7 - Applying MFA policy to the application
+
+<br></br>
 
 `Microsoft Entra ID → Protection → Conditional Access → New policy`
 
@@ -108,8 +116,15 @@ Configuration:
 - Users: EnterpriseApp-HR
 - Cloud apps: Enterprise HR Applcation
 - Grant: Require multi-factor authentication
+- 
 
+<br></br>
+
+----------------------
   
 <img width="2323" height="875" alt="Screenshot 2026-11-15 152516" src="https://github.com/user-attachments/assets/65161fd1-9018-47ec-829b-7894cc604b03" />
+
+----------------
+
 <img width="1439" height="861" alt="Screenshot 2026-11-15 152533" src="https://github.com/user-attachments/assets/cb29cf86-2877-40d3-b58b-70c4fdb9913e" />
 
