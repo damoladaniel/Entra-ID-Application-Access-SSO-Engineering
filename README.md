@@ -53,3 +53,12 @@ I created Cloud-Only users representing business roles:
 <br></br>
 <img width="1608" height="756" alt="image" src="https://github.com/user-attachments/assets/f580f720-d7c3-4cc2-bde9-f3a7c75d47b6" />
 <br></br>
+
+## Phase 2 - Application Onboarding
+### Step 3 - Register the application
+Path: `Microsoft Entra ID → App registrations → New registration`
+
+Application Name:
+`Enterprise HR Applcation`
+<img width="1529" height="761" alt="image" src="https://github.com/user-attachments/assets/62948977-fe6d-470f-a93f-774bc6935c9d" />
+
