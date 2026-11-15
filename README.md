@@ -61,4 +61,9 @@ Path: `Microsoft Entra ID → App registrations → New registration`
 Application Name:
 `Enterprise HR Applcation`
 <img width="1529" height="761" alt="image" src="https://github.com/user-attachments/assets/62948977-fe6d-470f-a93f-774bc6935c9d" />
+<br></br>
+<img width="2176" height="865" alt="Screenshot 2026-11-15 151952" src="https://github.com/user-attachments/assets/168b5f9a-3e5d-4702-a54b-d414232ebd80" />
+-------------------
+<img width="1541" height="844" alt="Screenshot 2026-11-15 152153" src="https://github.com/user-attachments/assets/83008e1d-a465-4ea5-9416-c49f75c5ed73" />
+
 
