@@ -26,4 +26,15 @@ It applies Zero Trust principles: no user or device is trusted by default, and e
 ### Architecture
 -----------------
 <img width="2720" height="1720" alt="entra_id_enterprise_app_access_architecture" src="https://github.com/user-attachments/assets/a7eb208c-7c49-4d6d-8099-4d791cd82a31" />
--------------------------
+
+--------------
+## Phase 1 - Creating Identies and Security Groups
+
+#### Step 1 - Create Enterprise Security Groups
+Path:
+`Microsoft Entra ID → Groups → New group`
+
+Create:
+- EnterpriseApp-HR
+- EnterpriseApp-IT-Admins
+- EnterpriseApp-Guests
