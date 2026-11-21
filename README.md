@@ -6,7 +6,11 @@ I wanted to see how IAM works beyond theory, so I onboarded an enterprise app in
 I onboarded an enterprise application into Microsoft Entra ID and secured it with role-based access, using group-based authorization and Conditional Access policies.
 The lab simulates how organisations bring internal business applications, such as HR systems, finance portals, and SaaS platforms, under central identity control, then restrict access by job function.
 It applies Zero Trust principles: no user or device is trusted by default, and every sign-in is verified.</p>
+
+
 ------------------------------------------
+
+
 ### What I built
 
 - Application onboarding: registered the enterprise application in Entra ID and configured single sign-on so users authenticate through the tenant rather than with separate app credentials.
